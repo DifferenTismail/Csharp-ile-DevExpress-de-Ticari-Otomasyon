@@ -35,7 +35,7 @@ namespace Ticari_Otomasyon
         private void btnMusteriler_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             if (fr2 == null)
-            {
+            { 
                 fr2 = new FrmMusteriler();
                 fr2.MdiParent = this;
                 fr2.Show();
