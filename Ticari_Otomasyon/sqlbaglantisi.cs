@@ -18,3 +18,4 @@ namespace Ticari_Otomasyon
         }
     }
 }
+ 
